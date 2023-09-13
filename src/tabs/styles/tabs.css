@@ -6,14 +6,13 @@
 .uni-tabs .mdc-tab-bar uni-load-repeat > uni-event,
 .uni-tabs .mdc-tab-bar uni-repeat,
 .uni-tabs .mdc-tab-bar uni-load {
-  position: relative;
+  /*position: relative;*/
   display: -ms-flexbox;
   display: flex;
   flex: 1 0 auto;
   -ms-flex-pack: center;
   justify-content: center;
 }
-
 
 .uni-tabs .mdc-tab-bar uni-event,
 .uni-tabs .mdc-tab-bar uni-store-set,

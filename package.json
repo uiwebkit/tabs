@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/tabs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "description": "Uni Tabs",
   "author": "Vitali Havryliuk",
@@ -24,7 +24,7 @@
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-tabs-1.0.2.tgz --access public"
+    "publish": "npm publish uiwebkit-tabs-1.0.3.tgz --access public"
   },
   "dependencies": {
     "@stencil/core": "2.14.2",
@@ -35,8 +35,7 @@
     "gulp": "4.0.2",
     "jest": "26.6.3",
     "jest-cli": "26.6.3",
-    "prettier": "2.6.0",
-    "puppeteer": "10.4.0"
+    "prettier": "2.6.0"
   },
   "repository": {
     "type": "git",
